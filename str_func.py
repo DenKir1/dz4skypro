@@ -1,5 +1,5 @@
 
 def str_upp(string: str):
-    """from str in str upper"""
+    """input str - output str"""
     return string.upper()
 
