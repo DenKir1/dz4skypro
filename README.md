@@ -1,1 +1,1 @@
-# dz4skypro
+# dz4sky-pro
